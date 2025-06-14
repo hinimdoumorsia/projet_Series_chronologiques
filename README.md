@@ -62,4 +62,4 @@ Les données contiennent les variables suivantes :
 
 ---
 
-## 🧪 Structure du Projet
+##  Structure du Projet
